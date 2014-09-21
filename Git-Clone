@@ -1,1 +1,4 @@
-Explain what git clone does
+git-clone:
+	replicates a repository and saves it into a new directory
+	it is able to be tracked remotely including each branch
+	in the clone
