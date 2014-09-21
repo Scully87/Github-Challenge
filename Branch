@@ -1,1 +1,6 @@
-Explain what a branch is
+Branch:
+	A branch can be made within your own repository which is
+	like have folks within your own repository. Each branch
+	will have a commit to your original repository and will
+	not commit to it the master until you later on merge
+	the branches together
